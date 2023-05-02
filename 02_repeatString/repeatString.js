@@ -1,5 +1,5 @@
-const repeatString = function () {
-    return 'hey'.repeat(3);
+const repeatString = function (word, quantity) {
+    return word.repeat(quantity);
 };
 
 // Do not edit below this line
